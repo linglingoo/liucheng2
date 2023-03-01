@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T06:23:32.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JoywllgoMglai1WNcRWp" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-01T06:31:10.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4fIW0N-BHxEhZSk6ahIp" version="20.8.23" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="客户响应中心">
     <mxGraphModel dx="1304" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-4" value="缺人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="62" y="9" width="100" height="60" as="geometry" />
+          <mxGeometry x="62" y="-257" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt2V4Dkn-G00_b4HjtjB-5" target="jt2V4Dkn-G00_b4HjtjB-7">
           <mxGeometry relative="1" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=14;" vertex="1" parent="jt2V4Dkn-G00_b4HjtjB-20">
-          <mxGeometry x="130" width="20" height="120" as="geometry" />
+          <mxGeometry x="130" y="-210" width="20" height="330" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-21" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="210" y="780" width="150" height="120" as="geometry" />
@@ -131,16 +131,16 @@
           <mxGeometry x="520" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-41" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-80" width="20" height="230" as="geometry" />
+          <mxGeometry x="180" y="-346" width="20" height="230" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-42" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="90" width="150" height="120" as="geometry" />
+          <mxGeometry x="210" y="-176" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-43" value="H3Ccare 工程师缺人" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="jt2V4Dkn-G00_b4HjtjB-42">
           <mxGeometry y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-45" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="-153" width="150" height="120" as="geometry" />
+          <mxGeometry x="210" y="-419" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-46" value="总部缺人" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="jt2V4Dkn-G00_b4HjtjB-45">
           <mxGeometry y="30" width="120" height="60" as="geometry" />
@@ -152,10 +152,10 @@
           <mxGeometry x="370" y="-231" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-49" value="招聘新员工" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="jt2V4Dkn-G00_b4HjtjB-48">
-          <mxGeometry y="30" width="120" height="60" as="geometry" />
+          <mxGeometry y="-236" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="-69" width="150" height="120" as="geometry" />
+          <mxGeometry x="370" y="-335" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-52" value="二线" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="jt2V4Dkn-G00_b4HjtjB-51">
           <mxGeometry y="-2" width="120" height="60" as="geometry" />
@@ -164,38 +164,38 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-56" value="代表处推荐简历" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="120" width="105" height="60" as="geometry" />
+          <mxGeometry x="385" y="-146" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt2V4Dkn-G00_b4HjtjB-57" target="jt2V4Dkn-G00_b4HjtjB-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-57" value="总部筛选简历面试定级" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="-146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jt2V4Dkn-G00_b4HjtjB-43" target="jt2V4Dkn-G00_b4HjtjB-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-61" value="同步结果代表处" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="-146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-63" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="870" y="90" width="20" height="120" as="geometry" />
+          <mxGeometry x="870" y="-176" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-64" value="淘汰" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="51" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="-215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-65" value="录取" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="-96" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-66" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="-100" as="sourcePoint" />
-            <mxPoint x="610" y="-100" as="targetPoint" />
+            <mxPoint x="510" y="-366" as="sourcePoint" />
+            <mxPoint x="610" y="-366" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-67" value="维总协调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-129" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="-395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-68" value="第一年二线培训，半年后返岗" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
@@ -205,6 +205,18 @@
         </mxCell>
         <mxCell id="jt2V4Dkn-G00_b4HjtjB-70" value="需要补充制定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt2V4Dkn-G00_b4HjtjB-71" value="接听方式" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt2V4Dkn-G00_b4HjtjB-72" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jt2V4Dkn-G00_b4HjtjB-73" value="网络组" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jt2V4Dkn-G00_b4HjtjB-74" value="软件组" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
