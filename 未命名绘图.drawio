@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:22:51.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qNc2Gvmt7Fc8Xt3Rmwvg" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:25:37.028Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ytIE0LWPz4imllAi-6mz" version="21.0.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="客户响应中心">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -306,7 +306,7 @@
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-10" value="联系客户巡检并商机挖掘" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-18" value="商机" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -321,8 +321,34 @@
             <mxPoint x="870" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-22" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-22" target="TBhJhvS-yAbjjIm0iYeF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-22" value="巡检结果" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1135" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-23" target="TBhJhvS-yAbjjIm0iYeF-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-23" value="巡检是否有问题" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="215" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-28" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-29" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-30" value="闭环" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
