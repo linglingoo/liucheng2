@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:37:11.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="I8PwJC-vcXqsxWuy_0vn" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:39:23.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DhOE9UkxxhNOZy_4XXCD" version="21.0.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="客户响应中心">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -338,6 +338,9 @@
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-23" value="是否需要整改" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="215" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-26" target="TBhJhvS-yAbjjIm0iYeF-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-26" value="整改策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1075" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -361,7 +364,10 @@
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-38" value="是否有商机" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="50" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-39" target="TBhJhvS-yAbjjIm0iYeF-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-39" value="安排指定人员挖掘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1075" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-40" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -381,6 +387,9 @@
         </mxCell>
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-44" value="整改策略：报告由客户服务经理审核后再进行交付；客户存在过保设备，可展开续保约谈，续保后提供整改；客户设备在保，支持进行整改；&lt;br&gt;谁去整改：由客户经理把控安排，需要原厂接入的话可以联系Mycare 产品部接口人下发营销工时" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="480" width="515" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-47" value="目前巡检人员用的都是H3care和护航 的人" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="255" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
