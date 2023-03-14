@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:11:05.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="z-Mh373ymERzLEjl5e-9" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:16:17.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LT75UxX5JNBmLA3RcS5w" version="21.0.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="客户响应中心">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,17 +285,26 @@
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-1" target="TBhJhvS-yAbjjIm0iYeF-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-1" value="yangusu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-1" value="产品部负责人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-2" target="TBhJhvS-yAbjjIm0iYeF-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-6" value="下发mycare任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-2" value="Mycare代表处接口人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-6" target="TBhJhvS-yAbjjIm0iYeF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-6" value="下发具体人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-8" value="下发mycare任务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="250" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
