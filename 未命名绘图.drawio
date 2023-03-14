@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T08:08:37.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yB2kriHwQUH78WOWkg5Q" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-14T08:10:35.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="SdY_LLioyfyroTRtpmKp" version="21.0.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="客户响应中心">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -415,7 +415,7 @@
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-56" value="1、试点阶段对于下发任务时间点没有考核要求， 正式全国通用时建议增加考核" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-55">
           <mxGeometry y="30" width="343.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-57" value="2、" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-55">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-57" value="2、巡检挖掘的质量没有标准， 只能从是否按时交付维度进行考核" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-55">
           <mxGeometry y="60" width="343.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-58" value="3、" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-55">
