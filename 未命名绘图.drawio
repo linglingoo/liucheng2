@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T07:39:54.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="u2uphm9v0BTtH7TcNv7g" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-14T07:48:51.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="RbR5FT54WKL8woSXhJyF" version="21.0.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="客户响应中心">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,8 +388,8 @@
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-44" value="整改策略：报告由客户服务经理审核后再进行交付；客户存在过保设备，可展开续保约谈，续保后提供整改；客户设备在保，支持进行整改；&lt;br&gt;谁去整改：由客户经理把控安排，需要原厂接入的话可以联系Mycare 产品部接口人下发营销工时" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="480" width="515" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-47" value="目前巡检人员用的都是H3care和护航 的人" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="280" width="100" height="30" as="geometry" />
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-47" value="1、Mycare目前没有招人，目前巡检人员用的都是H3care和护航 的人：已沟通和人&lt;br&gt;2、" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
