@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T09:09:16.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ye2mLwCfRMgOOsz6pJLB" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-14T09:11:54.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="DUBElx8J_LqIABLGltEx" version="21.0.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="客户响应中心">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-6" target="TBhJhvS-yAbjjIm0iYeF-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-6" value="下发具体巡检人员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FFFF;" vertex="1" parent="1">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-6" value="下发具体巡检人员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#32F5F5;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-8" value="下发mycare任务" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -391,13 +391,13 @@
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-48" value="人员安排" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="350" width="407.5" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-49" value="1、Mycare目前没有招人，目前巡检人员用的都是H3care和护航 的人：已和yuyang沟通在指定人员前和代表处以及总部h3care接口人邮件知会下" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-48">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-49" value="1、Mycare目前没有招人，目前巡检人员用的都是H3care和护航 的人：已和yuyang沟通在指定人员前和代表处以及总部h3care接口人邮件知会下" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-48">
           <mxGeometry y="30" width="407.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-50" value="2、代表处人员缺口目前收到通知江苏和内蒙古有缺口， 其中江苏上周二面已通过，待反馈结果。其他代表处暂未反馈人员缺口&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-48">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-50" value="2、代表处人员缺口目前收到通知江苏和内蒙古有缺口， 其中江苏上周二面已通过，待反馈结果。其他代表处暂未反馈人员缺口&amp;nbsp;" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-48">
           <mxGeometry y="80" width="407.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TBhJhvS-yAbjjIm0iYeF-51" value="3、关于人员面试，已和xuyang沟通后续安排人员一起面试。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-48">
+        <mxCell id="TBhJhvS-yAbjjIm0iYeF-51" value="3、关于人员面试，已和xuyang沟通后续安排人员一起面试。" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TBhJhvS-yAbjjIm0iYeF-48">
           <mxGeometry y="130" width="407.5" height="41" as="geometry" />
         </mxCell>
         <mxCell id="TBhJhvS-yAbjjIm0iYeF-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TBhJhvS-yAbjjIm0iYeF-48" target="TBhJhvS-yAbjjIm0iYeF-6">
