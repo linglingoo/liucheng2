@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T07:58:56.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kqLOTNDUSaFhihcQiKme" version="21.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-28T08:44:53.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="B1HHUDa1H94g4je943ba" version="21.1.1" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -603,6 +603,9 @@
         <mxCell id="Jd6GzlZFz0yuIZVEgvQE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Jd6GzlZFz0yuIZVEgvQE-1" source="Jd6GzlZFz0yuIZVEgvQE-5" target="Jd6GzlZFz0yuIZVEgvQE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EMvDoXgE4D6r-pJyVEhK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jd6GzlZFz0yuIZVEgvQE-1" source="Jd6GzlZFz0yuIZVEgvQE-5" target="EMvDoXgE4D6r-pJyVEhK-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Jd6GzlZFz0yuIZVEgvQE-5" value="第二次上传巡检结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
           <mxGeometry x="320" y="160" width="110" height="60" as="geometry" />
         </mxCell>
@@ -648,12 +651,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YHcVfJgKMhjbrDMgGZ5X-6" value="注意点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
-          <mxGeometry x="836.5" y="375" width="195" height="130" as="geometry" />
+          <mxGeometry x="842" y="427" width="195" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="YHcVfJgKMhjbrDMgGZ5X-7" value="1、资源以序列号标识，采集信息SN 能否和变更电子流信息对上" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHcVfJgKMhjbrDMgGZ5X-6">
+        <mxCell id="YHcVfJgKMhjbrDMgGZ5X-7" value="1、资源以序列号标识，采集信息SN 能否和变更电子流信息对上，这个变更电子流规范性" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHcVfJgKMhjbrDMgGZ5X-6">
           <mxGeometry y="30" width="195" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YHcVfJgKMhjbrDMgGZ5X-8" value="2、配置发生变化的定义&lt;br&gt;3、版本信息能不能匹配上" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHcVfJgKMhjbrDMgGZ5X-6">
+        <mxCell id="YHcVfJgKMhjbrDMgGZ5X-8" value="2、配置发生变化的定义&lt;br&gt;3、版本信息能不能匹配上，目标版本不是必填项，" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHcVfJgKMhjbrDMgGZ5X-6">
           <mxGeometry y="80" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YHcVfJgKMhjbrDMgGZ5X-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jd6GzlZFz0yuIZVEgvQE-1" source="YHcVfJgKMhjbrDMgGZ5X-9" target="Jd6GzlZFz0yuIZVEgvQE-22">
@@ -721,6 +724,9 @@
         </mxCell>
         <mxCell id="YHcVfJgKMhjbrDMgGZ5X-29" value="没有" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
           <mxGeometry x="1401" y="231" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMvDoXgE4D6r-pJyVEhK-0" value="填写变更电子流流水号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
+          <mxGeometry x="320" y="305" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
