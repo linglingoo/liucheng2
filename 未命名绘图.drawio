@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T08:44:53.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="B1HHUDa1H94g4je943ba" version="21.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-28T09:00:47.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wmJPKG76KqUGkD-ie2Pd" version="21.1.1" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -726,6 +726,148 @@
           <mxGeometry x="1401" y="231" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMvDoXgE4D6r-pJyVEhK-0" value="填写变更电子流流水号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
+          <mxGeometry x="320" y="305" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="规范检查系统 的副本" id="rflUDpQ8WEme3f5U8vMK">
+    <mxGraphModel dx="1064" dy="1734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCE5FF" math="0" shadow="0">
+      <root>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-0" />
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-1" parent="P1kEDOCKRI1ufAbkf8xV-0" />
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-3" target="P1kEDOCKRI1ufAbkf8xV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-3" value="第一次上传巡检结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-6" target="P1kEDOCKRI1ufAbkf8xV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-6" target="P1kEDOCKRI1ufAbkf8xV-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-6" value="第二次上传巡检结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="320" y="160" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-8" value="iservice对比差异" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#32F5F5;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-10" target="P1kEDOCKRI1ufAbkf8xV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-10" value="是否发生变动" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="694" y="139" width="110" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-11" value="不做动作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="689" y="-43" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-12" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="784" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-14" target="P1kEDOCKRI1ufAbkf8xV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-14" value="调动变更电子流系统接口查询1、2次巡检结果期间有无变更电子流" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1086" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-15" value="动作" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="494" y="265" width="132" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-16" value="1、版本发生变化" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-15">
+          <mxGeometry y="30" width="132" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-17" value="2、配置发生变化" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-15">
+          <mxGeometry y="80" width="132" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-15" target="P1kEDOCKRI1ufAbkf8xV-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="220" as="sourcePoint" />
+            <mxPoint x="810" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-19" value="注意点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="842" y="427" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-20" value="1、资源以序列号标识，采集信息SN 能否和变更电子流信息对上，变更电子流规范性" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-19">
+          <mxGeometry y="30" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-21" value="2、配置发生变化的定义&lt;br&gt;3、版本信息能不能匹配上，目标版本不是必填项，" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-19">
+          <mxGeometry y="80" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-23" target="P1kEDOCKRI1ufAbkf8xV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-23" value="配置发生变化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="874" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-25" target="P1kEDOCKRI1ufAbkf8xV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-25" value="版本发生变化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="874" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="809" y="189" as="sourcePoint" />
+            <mxPoint x="869" y="128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="809" y="194" as="sourcePoint" />
+            <mxPoint x="859" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-29" target="P1kEDOCKRI1ufAbkf8xV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-29" value="调动变更电子流系统接口查询1、2次巡检结果期间有无变更电子流，且目标版本能不能对上" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1086" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-32" target="P1kEDOCKRI1ufAbkf8xV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-32" target="P1kEDOCKRI1ufAbkf8xV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-32" value="有无变更电子流" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1291" y="45.5" width="110" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-35" target="P1kEDOCKRI1ufAbkf8xV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P1kEDOCKRI1ufAbkf8xV-1" source="P1kEDOCKRI1ufAbkf8xV-35" target="P1kEDOCKRI1ufAbkf8xV-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-35" value="有无变更电子流" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1293" y="214.5" width="110" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-36" value="不做动作" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1288" y="392" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-37" value="有" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1274" y="-3" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-38" value="进行统计并邮件推送巡检人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1495" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-39" value="进行统计并邮件推送巡检人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1498" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-40" value="没有" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1391" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-41" value="没有" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
+          <mxGeometry x="1401" y="231" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1kEDOCKRI1ufAbkf8xV-42" value="填写变更电子流流水号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P1kEDOCKRI1ufAbkf8xV-1">
           <mxGeometry x="320" y="305" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
