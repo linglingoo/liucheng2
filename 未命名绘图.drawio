@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T07:43:03.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3Z3uYlBaB7hjvXHt44JB" version="21.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-28T07:46:01.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="bDVLGYKxHlGTuzAw-oAf" version="21.1.1" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -650,10 +650,10 @@
         <mxCell id="YHcVfJgKMhjbrDMgGZ5X-6" value="注意点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
           <mxGeometry x="836.5" y="375" width="195" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="YHcVfJgKMhjbrDMgGZ5X-7" value="1、资源以序列号标识，" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHcVfJgKMhjbrDMgGZ5X-6">
+        <mxCell id="YHcVfJgKMhjbrDMgGZ5X-7" value="1、资源以序列号标识，采集信息SN 能否和变更电子流信息对上" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHcVfJgKMhjbrDMgGZ5X-6">
           <mxGeometry y="30" width="195" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YHcVfJgKMhjbrDMgGZ5X-8" value="2、配置发生变化" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHcVfJgKMhjbrDMgGZ5X-6">
+        <mxCell id="YHcVfJgKMhjbrDMgGZ5X-8" value="2、配置发生变化的范围&lt;br&gt;3、版本信息能不能匹配上&lt;br&gt;" style="text;strokeColor=none;fillColor=#B9E0A5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YHcVfJgKMhjbrDMgGZ5X-6">
           <mxGeometry y="80" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YHcVfJgKMhjbrDMgGZ5X-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jd6GzlZFz0yuIZVEgvQE-1" source="YHcVfJgKMhjbrDMgGZ5X-9" target="Jd6GzlZFz0yuIZVEgvQE-22">
