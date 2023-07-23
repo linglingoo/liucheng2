@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T15:23:13.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zf1u2Nmh1IC4XChHhgIE" version="21.6.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-23T15:40:58.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="onGykCBRoGQ33mBKEXEB" version="21.6.5" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -967,7 +967,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zFFicNC7Caz6Y0jvNtMQ" name="意见箱">
-    <mxGraphModel dx="1064" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -983,7 +983,7 @@
         <mxCell id="YxOefvsoiGpUsP6HVDwO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YxOefvsoiGpUsP6HVDwO-7" target="YxOefvsoiGpUsP6HVDwO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YxOefvsoiGpUsP6HVDwO-7" value="客户浏览器访问产品UI页面并点击意见反馈按钮&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="YxOefvsoiGpUsP6HVDwO-7" value="客户浏览器访问产品UI页面并点击意见反馈按钮&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YxOefvsoiGpUsP6HVDwO-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YxOefvsoiGpUsP6HVDwO-10" target="YxOefvsoiGpUsP6HVDwO-12" edge="1">
@@ -1007,11 +1007,29 @@
         <mxCell id="YxOefvsoiGpUsP6HVDwO-15" value="意见箱系统分发筛选有价值的信息" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eWte2wmSc1OIZPjvBRHU-1" value="由后端人员联系客户确认实际建议和" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="lLM3rbIPsRYygAdbZLl9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eWte2wmSc1OIZPjvBRHU-1" target="lLM3rbIPsRYygAdbZLl9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eWte2wmSc1OIZPjvBRHU-1" value="由后端接口人员联系客户确认实际建议" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eWte2wmSc1OIZPjvBRHU-3" value="无价值信息直接废弃" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLM3rbIPsRYygAdbZLl9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLM3rbIPsRYygAdbZLl9-2" target="lLM3rbIPsRYygAdbZLl9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLM3rbIPsRYygAdbZLl9-2" value="产品研发确认建议是否采纳并给出实现时间点" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLM3rbIPsRYygAdbZLl9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lLM3rbIPsRYygAdbZLl9-4" target="lLM3rbIPsRYygAdbZLl9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lLM3rbIPsRYygAdbZLl9-4" value="后端接口人员以公邮反馈客户的建议采纳结果" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lLM3rbIPsRYygAdbZLl9-6" value="意见箱系统记录展示" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
