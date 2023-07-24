@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T03:22:40.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UvmYbV8h-BBcX8jBquH0" version="21.6.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-24T03:25:36.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oVzLLu3C15hBCO1qYmLB" version="21.6.5" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="1064" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1025,7 +1025,7 @@
         <mxCell id="lLM3rbIPsRYygAdbZLl9-6" value="意见箱系统记录展示" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="858" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yz3aq8hTa1-KsQNKLUQH-3" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Yz3aq8hTa1-KsQNKLUQH-3" value="数据看板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="858" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
