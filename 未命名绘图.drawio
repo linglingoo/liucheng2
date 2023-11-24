@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T07:25:45.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="s3U3bJAG-veW-y0VDbcn" version="22.1.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-24T08:07:29.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RTqn258oNiAesdqnFp0R" version="22.1.3" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="1064" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -552,7 +552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="规范检查系统" id="OE58Ufmfn26gWM6C6z8v">
-    <mxGraphModel dx="2128" dy="2289" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCE5FF" math="0" shadow="0">
+    <mxGraphModel dx="1520" dy="1969" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCE5FF" math="0" shadow="0">
       <root>
         <mxCell id="Jd6GzlZFz0yuIZVEgvQE-0" />
         <mxCell id="Jd6GzlZFz0yuIZVEgvQE-1" parent="Jd6GzlZFz0yuIZVEgvQE-0" />
@@ -647,9 +647,6 @@
         <mxCell id="YHcVfJgKMhjbrDMgGZ5X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Jd6GzlZFz0yuIZVEgvQE-1" source="YHcVfJgKMhjbrDMgGZ5X-16" target="Jd6GzlZFz0yuIZVEgvQE-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lkz71qTLfyBV-FVr08HN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Jd6GzlZFz0yuIZVEgvQE-1" source="YHcVfJgKMhjbrDMgGZ5X-16" target="Lkz71qTLfyBV-FVr08HN-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YHcVfJgKMhjbrDMgGZ5X-16" value="有无变更电子流" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="Jd6GzlZFz0yuIZVEgvQE-1" vertex="1">
           <mxGeometry x="1419" y="139" width="110" height="109" as="geometry" />
         </mxCell>
@@ -657,7 +654,7 @@
           <mxGeometry x="1274" y="-3" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YHcVfJgKMhjbrDMgGZ5X-28" value="没有" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Jd6GzlZFz0yuIZVEgvQE-1" vertex="1">
-          <mxGeometry x="1350" y="261" width="60" height="30" as="geometry" />
+          <mxGeometry x="1370" y="265" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMvDoXgE4D6r-pJyVEhK-0" value="填写变更电子流流水号的" style="rounded=1;whiteSpace=wrap;html=1;" parent="Jd6GzlZFz0yuIZVEgvQE-1" vertex="1">
           <mxGeometry x="320" y="305" width="110" height="60" as="geometry" />
@@ -677,8 +674,23 @@
         <mxCell id="Lkz71qTLfyBV-FVr08HN-3" value="通过条码调用sip系统的客户名称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
           <mxGeometry x="1012" y="200" width="189" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Lkz71qTLfyBV-FVr08HN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
-          <mxGeometry x="1414" y="352.5" width="120" height="60" as="geometry" />
+        <mxCell id="Lkz71qTLfyBV-FVr08HN-4" value="在变更规范系统（总部视图）将展示违反变更规范的数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
+          <mxGeometry x="1289" y="353" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lkz71qTLfyBV-FVr08HN-34" value="变更规范确认系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
+          <mxGeometry x="136" y="542" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lkz71qTLfyBV-FVr08HN-35" value="变更规范（工程师）视图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
+          <mxGeometry x="1520" y="353" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lkz71qTLfyBV-FVr08HN-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
+          <mxGeometry x="1464" y="219.5" width="20" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="Lkz71qTLfyBV-FVr08HN-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1473.29" y="253" as="sourcePoint" />
+            <mxPoint x="1473" y="325" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
