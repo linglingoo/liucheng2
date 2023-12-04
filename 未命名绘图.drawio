@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T05:58:04.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LTVlaEXMlQdsh6aItNIt" version="22.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-04T06:09:11.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GDgGZDQXvtAPAKksVoib" version="22.1.5" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="1064" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -695,9 +695,6 @@
         </mxCell>
         <mxCell id="Lkz71qTLfyBV-FVr08HN-42" value="变更规范系统（总部视图）" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=none;fontColor=#143642;" parent="Jd6GzlZFz0yuIZVEgvQE-1" vertex="1">
           <mxGeometry x="1222" y="380" width="167" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Lkz71qTLfyBV-FVr08HN-43" value="变更规范系统（总部视图）" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" parent="Jd6GzlZFz0yuIZVEgvQE-1" vertex="1">
-          <mxGeometry x="65" y="681" width="167" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lkz71qTLfyBV-FVr08HN-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" parent="Jd6GzlZFz0yuIZVEgvQE-1" vertex="1">
           <mxGeometry x="969" y="206" width="20" height="120" as="geometry" />
