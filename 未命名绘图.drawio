@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T05:11:10.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-TALD7HMJ7N_WXtXnZVd" version="22.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-12-04T05:58:04.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LTVlaEXMlQdsh6aItNIt" version="22.1.5" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="1064" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -906,7 +906,7 @@
         <mxCell id="zuSRnVElI5vYUmdfmh_M-58" value="邮件抄送服务部长" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=1;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
           <mxGeometry x="756" y="1107" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zuSRnVElI5vYUmdfmh_M-63" value="1、只考察原厂工程师，需要标识原厂的工程师，对于代理商的工程师由管理员手工导出月度发给duxiaoli&amp;nbsp; 进行核查，客户账号不进行核查。&lt;br&gt;2、只针对版本发生变化的运营商局点的客户进行核查" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
+        <mxCell id="zuSRnVElI5vYUmdfmh_M-63" value="1、只考察原厂工程师，需要标识原厂的工程师，对于代理商的工程师由管理员手工导出月度发给duxiaoli&amp;nbsp; 进行核查，客户账号不进行核查。需要标识责任人账号。&lt;br&gt;2、只针对版本发生变化的运营商局点的客户进行核查" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jd6GzlZFz0yuIZVEgvQE-1">
           <mxGeometry x="151" y="1513" width="637" height="106" as="geometry" />
         </mxCell>
       </root>
