@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T09:42:12.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="bdG_NEZt3w1l5r3nVNJt" version="24.4.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-16T10:18:53.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="csEDu-3uX67MAx708NLS" version="24.4.2" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1" />
   <diagram id="CedgReP-z1SRrH05e4Ly" name="H3care">
     <mxGraphModel dx="1064" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -1241,10 +1241,49 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h9Nw4z0F8GSzVBtf-OzA" name="第 10 页">
-    <mxGraphModel dx="1015" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-11" value="底盘产线 王金柱" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-10" value="ESM 产线" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="330" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-9" value="UC 产线" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="10" width="330" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-1" value="IOM/CMDB/BSM/ITSM/SHM/NSM&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-2" value="&lt;div&gt;EIA/EPS/EBM/EDM/EAD/TAM..&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-3" value="底盘/NPA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-4" value="&lt;div&gt;V9架构&amp;nbsp; &amp;nbsp;底盘+组件&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="160" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-5" value="&lt;div&gt;V7架构&amp;nbsp; &amp;nbsp; &amp;nbsp; PLAT+组件&amp;nbsp; （imc&amp;nbsp; 、U-Center 1.0 ）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="390" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-6" value="&lt;div&gt;PLAT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-7" value="&lt;div&gt;EIA/EPS/EBM/EDM/EAD/TAM..&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-8" value="PLAT&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="390" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-12" value="底盘产线 张征" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="990" y="280" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-13" value="IOM/CMDB/BSM/ITSM/SHM/NSM&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="250" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
