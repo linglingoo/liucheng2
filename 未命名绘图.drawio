@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T10:30:59.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="tLH96hVexIcrKruKIFf4" version="24.4.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-16T10:34:02.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="lXRigbsZoWftGnRcE-b5" version="24.4.2" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1" />
   <diagram id="CedgReP-z1SRrH05e4Ly" name="H3care">
     <mxGraphModel dx="1064" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -1260,7 +1260,7 @@
         <mxCell id="Hqnyv_1BkTcNx7DYO544-2" value="&lt;div&gt;EIA/EPS/EBM/EDM/EAD/TAM..&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="150" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqnyv_1BkTcNx7DYO544-3" value="底盘/NPA/NPD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-3" value="底盘（告警、syslog）/NPA/NPD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="150" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-4" value="&lt;div&gt;V9架构&amp;nbsp; &amp;nbsp;底盘+组件&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1269,20 +1269,20 @@
         <mxCell id="Hqnyv_1BkTcNx7DYO544-5" value="&lt;div&gt;V7架构&amp;nbsp; PLAT+组件&amp;nbsp; （imc&amp;nbsp; 、U-Center 1.0 ）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="390" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqnyv_1BkTcNx7DYO544-6" value="&lt;div&gt;PLAT/ssm/mvm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-6" value="&lt;div&gt;PLAT(告警、网管等功能)/ssm/mvm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-7" value="&lt;div&gt;EIA/EPS/EBM/EDM/EAD/TAM..&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqnyv_1BkTcNx7DYO544-13" value="IOM/CMDB/BSM/ITSM/SHM/NSM&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-13" value="IOM/CMDB/BSM/ITSM/SHM&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=30;strokeColor=#000000;strokeWidth=5;perimeterSpacing=4;gradientColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-330" y="112.5" width="1350" height="135" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=30;strokeColor=#000000;strokeWidth=5;perimeterSpacing=4;gradientColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="352.5" width="1350" height="167.5" as="geometry" />
+          <mxGeometry x="-330" y="350" width="1350" height="167.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
