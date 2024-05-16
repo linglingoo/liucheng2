@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T10:50:07.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="FuYxLOCRkJ280Oft8Qwf" version="24.4.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-16T10:55:34.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="suoco6EZ2V_LDW7W3OH_" version="24.4.2" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1" />
   <diagram id="CedgReP-z1SRrH05e4Ly" name="H3care">
     <mxGraphModel dx="1064" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -1246,7 +1246,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Hqnyv_1BkTcNx7DYO544-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;底盘产线 王金柱&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="670" y="10" width="330" height="220" as="geometry" />
+          <mxGeometry x="670" y="10" width="330" height="520" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ESM 产线&amp;nbsp; 许文雨&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="330" y="10" width="330" height="520" as="geometry" />
@@ -1254,13 +1254,13 @@
         <mxCell id="Hqnyv_1BkTcNx7DYO544-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;UC 产线&amp;nbsp; 魏东升&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-10" y="10" width="330" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="Hqnyv_1BkTcNx7DYO544-1" value="IOM/CMDB/BSM/ITSM/SHM/NSM&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;①&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-1" value="V9 IOM/CMDB/BSM/ITSM/SHM/NSM&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;①&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="30" y="160" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqnyv_1BkTcNx7DYO544-2" value="&lt;div&gt;EIA/EPS/EBM/EDM/EAD/TAM..&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-2" value="&lt;div&gt;&amp;nbsp; V9&amp;nbsp; EIA/EPS/EBM/EDM/EAD/TAM..&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="150" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hqnyv_1BkTcNx7DYO544-3" value="底盘（告警、syslog）/NPA/NPD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-3" value="V9&amp;nbsp; 底盘（告警、syslog）/NPA/NPD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="150" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-4" value="&lt;div&gt;V9架构&amp;nbsp; &amp;nbsp;底盘+组件&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1283,6 +1283,9 @@
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-17" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;opacity=30;strokeColor=#000000;strokeWidth=5;perimeterSpacing=4;gradientColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-350" y="590" width="1350" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Hqnyv_1BkTcNx7DYO544-18" value="V7&amp;nbsp; NPA/NPD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
