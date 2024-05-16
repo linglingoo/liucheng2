@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T10:27:48.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="JjRTmK4CpniduAwcO1jn" version="24.4.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-16T10:29:09.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="NxZy5Q9a0Uu7A2QVFTdH" version="24.4.2" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1" />
   <diagram id="CedgReP-z1SRrH05e4Ly" name="H3care">
     <mxGraphModel dx="1064" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -1273,16 +1273,10 @@
           <mxGeometry x="-290" y="390" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-6" value="&lt;div&gt;PLAT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="350" width="250" height="60" as="geometry" />
+          <mxGeometry x="40" y="360" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-7" value="&lt;div&gt;EIA/EPS/EBM/EDM/EAD/TAM..&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hqnyv_1BkTcNx7DYO544-8" value="PLAT&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="390" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hqnyv_1BkTcNx7DYO544-12" value="底盘产线 张征" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="990" y="280" width="330" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Hqnyv_1BkTcNx7DYO544-13" value="IOM/CMDB/BSM/ITSM/SHM/NSM&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="250" height="60" as="geometry" />
