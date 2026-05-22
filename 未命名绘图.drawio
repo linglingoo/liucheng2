@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" pages="12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
-    <mxGraphModel>
+    <mxGraphModel dx="695" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8lyrtyO222FgC_SI08Ur-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="310" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyrtyO222FgC_SI08Ur-4" edge="1" parent="1" source="8lyrtyO222FgC_SI08Ur-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8lyrtyO222FgC_SI08Ur-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyrtyO222FgC_SI08Ur-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ka问题反馈" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyrtyO222FgC_SI08Ur-6" edge="1" parent="1" source="8lyrtyO222FgC_SI08Ur-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8lyrtyO222FgC_SI08Ur-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyrtyO222FgC_SI08Ur-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="发送1st回复邮件" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8lyrtyO222FgC_SI08Ur-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="ka问题处理" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
