@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="1">
     <mxGraphModel dx="695" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1362,6 +1362,93 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="G9w6o7lxXtwPtnim-jY5" name="海外问题处理流程">
+    <mxGraphModel dx="1120" dy="633" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FabDIHhsE-iqkShhQNkP-15" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points" />
+            <mxPoint x="306" y="120" as="sourcePoint" />
+            <mxPoint x="306" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="客户/代理商" vertex="1">
+          <mxGeometry height="35" width="116" x="152" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="代表处" vertex="1">
+          <mxGeometry height="35" width="116" x="343" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-39" edge="1" parent="1" source="FabDIHhsE-iqkShhQNkP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FabDIHhsE-iqkShhQNkP-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-36" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;fontStyle=1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;span&gt;001&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;服务请求&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="57" width="95" x="170" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-47" edge="1" parent="1" source="FabDIHhsE-iqkShhQNkP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FabDIHhsE-iqkShhQNkP-46" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612" y="277" />
+              <mxPoint x="674" y="277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-66" edge="1" parent="1" source="FabDIHhsE-iqkShhQNkP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FabDIHhsE-iqkShhQNkP-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-38" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;fontStyle=1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;span&gt;002&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;问题受理与分发&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="59" width="95" x="564" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-40" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;001&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;服务请求&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="57" width="95" x="170" y="462" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-60" edge="1" parent="1" source="FabDIHhsE-iqkShhQNkP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="FabDIHhsE-iqkShhQNkP-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-46" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=top;rounded=1;" value="&lt;h4&gt;独立解决&lt;/h4&gt;" vertex="1">
+          <mxGeometry height="55.75" width="131" x="606" y="304" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-50" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points" />
+            <mxPoint x="740" y="105" as="sourcePoint" />
+            <mxPoint x="740" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="技术支持中心L1/L2/海外工程师" vertex="1">
+          <mxGeometry height="35" width="116" x="550" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="技术支持中心L3工程师" vertex="1">
+          <mxGeometry height="35" width="116" x="740" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="研发产品线" vertex="1">
+          <mxGeometry height="35" width="116" x="896" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="流程业绩衡量标准" vertex="1">
+          <mxGeometry height="35" width="116" x="1067" y="126" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-55" parent="1" style="shape=tape;whiteSpace=wrap;html=1;fontStyle=1" value="PPM A:&lt;div&gt;400接听率&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="1075" y="216" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-56" parent="1" style="shape=tape;whiteSpace=wrap;html=1;fontStyle=1" value="PPM B:&lt;div&gt;客户满意度&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="1075" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-57" parent="1" style="shape=tape;whiteSpace=wrap;html=1;fontStyle=1" value="PPM C:&lt;div&gt;及时解决度&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="1077" y="539" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-58" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=top;rounded=1;" value="&lt;h4&gt;远程解决&lt;/h4&gt;" vertex="1">
+          <mxGeometry height="55.75" width="131" x="881" y="304" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="问题申告" vertex="1">
+          <mxGeometry height="35" width="116" x="355.5" y="189" as="geometry" />
+        </mxCell>
+        <mxCell id="FabDIHhsE-iqkShhQNkP-61" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=top;rounded=1;" value="&lt;h4&gt;独立解决&lt;/h4&gt;" vertex="1">
+          <mxGeometry height="55.75" width="131" x="478" y="304" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
