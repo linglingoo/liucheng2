@@ -1844,7 +1844,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nc1uAf0FZalPHCswyY8w-24" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="255" width="660" x="-40" y="620" as="geometry" />
+          <mxGeometry height="255" width="690" x="-40" y="620" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-21" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
           <mxGeometry height="255" width="690" x="-40" y="345" as="geometry" />
@@ -1907,7 +1907,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="同步海外交付团队跟踪" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="630" as="geometry" />
+          <mxGeometry height="60" width="120" x="190" y="640" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
           <mxGeometry height="30" width="60" x="240" y="550" as="geometry" />
