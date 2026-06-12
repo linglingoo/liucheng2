@@ -1927,6 +1927,15 @@
         <mxCell id="nc1uAf0FZalPHCswyY8w-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
           <mxGeometry height="30" width="60" x="320" y="150" as="geometry" />
         </mxCell>
+        <mxCell id="nc1uAf0FZalPHCswyY8w-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" value="各产品L3 团队" vertex="1">
+          <mxGeometry height="30" width="100" x="-20" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="nc1uAf0FZalPHCswyY8w-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" value="海外技术支持部" vertex="1">
+          <mxGeometry height="30" width="120" x="-20" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="nc1uAf0FZalPHCswyY8w-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=15;" value="海外业务支持部" vertex="1">
+          <mxGeometry height="30" width="120" x="-30" y="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
