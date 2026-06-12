@@ -1839,15 +1839,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ODmlS8s8bbNgeNvuy6TF" name="海外技术公告整改流程">
-    <mxGraphModel dx="780" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1607" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nc1uAf0FZalPHCswyY8w-24" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="255" width="660" x="-40" y="620" as="geometry" />
+        </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-21" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="255" width="550" x="70" y="345" as="geometry" />
+          <mxGeometry height="255" width="660" x="-40" y="345" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-13" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="240" width="550" x="70" y="90" as="geometry" />
+          <mxGeometry height="240" width="660" x="-40" y="90" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-4" edge="1" parent="1" source="nc1uAf0FZalPHCswyY8w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nc1uAf0FZalPHCswyY8w-3" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1865,7 +1868,7 @@
           <mxGeometry height="80" width="80" x="220" y="230" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="按照正常流程中文发布流程" vertex="1">
-          <mxGeometry height="60" width="120" x="450" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="-20" y="240" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-12" edge="1" parent="1" source="nc1uAf0FZalPHCswyY8w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nc1uAf0FZalPHCswyY8w-11" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1897,11 +1900,17 @@
         <mxCell id="nc1uAf0FZalPHCswyY8w-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" value="是否强制整改" vertex="1">
           <mxGeometry height="80" width="80" x="210" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="nc1uAf0FZalPHCswyY8w-23" edge="1" parent="1" source="nc1uAf0FZalPHCswyY8w-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nc1uAf0FZalPHCswyY8w-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="同步海外交付团队跟踪" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="630" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
           <mxGeometry height="30" width="60" x="240" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="nc1uAf0FZalPHCswyY8w-22" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" value="代表处反馈整改后闭环" vertex="1">
+          <mxGeometry height="60" width="150" x="175" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
