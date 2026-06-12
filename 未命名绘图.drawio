@@ -1850,7 +1850,7 @@
           <mxGeometry height="255" width="690" x="-40" y="345" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-13" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="300" width="690" x="-40" y="30" as="geometry" />
+          <mxGeometry height="300" width="680" x="-30" y="30" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-26" edge="1" parent="1" source="nc1uAf0FZalPHCswyY8w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nc1uAf0FZalPHCswyY8w-25" value="">
           <mxGeometry relative="1" as="geometry" />
