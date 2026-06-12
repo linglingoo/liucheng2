@@ -1871,7 +1871,7 @@
           <mxGeometry height="60" width="120" x="200" y="400" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
-          <mxGeometry height="30" width="60" x="260" y="310" as="geometry" />
+          <mxGeometry height="30" width="60" x="250" y="300" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="230" as="geometry" />
