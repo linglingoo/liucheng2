@@ -1867,7 +1867,7 @@
         <mxCell id="nc1uAf0FZalPHCswyY8w-12" edge="1" parent="1" source="nc1uAf0FZalPHCswyY8w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nc1uAf0FZalPHCswyY8w-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nc1uAf0FZalPHCswyY8w-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="同步海外二线接口人&lt;br&gt;彭启瑞" vertex="1">
+        <mxCell id="nc1uAf0FZalPHCswyY8w-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="同步海外二线总接口人&lt;br&gt;彭启瑞" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="400" as="geometry" />
         </mxCell>
         <mxCell id="nc1uAf0FZalPHCswyY8w-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
@@ -1876,8 +1876,8 @@
         <mxCell id="nc1uAf0FZalPHCswyY8w-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="nc1uAf0FZalPHCswyY8w-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="540" as="geometry" />
+        <mxCell id="nc1uAf0FZalPHCswyY8w-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分发海外二线产品接口人" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
